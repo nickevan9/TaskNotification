@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">TaskNotification</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">Get Started</string>
+    <string name="log_in">Log In</string>
+    <string name="welcome">Welcome to kami ryo</string>
+    <string name="happen_tomorrow">Whats going to happen tomorrow?</string>
+    <string name="work_happens">Work happens</string>
+    <string name="notified_work">Get notified when work happens.</string>
+    <string name="tasks_and_assign">Tasks and assign</string>
+    <string name="task_colleagues">Task and assign them to colleagues</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="to_do">To Do</string>
+    <string name="fingerprint">You can use your <b><font color='#FF0000'>Fingerprint</font></b>\nfor easy access to the app</string>
+    <string name="forgot_description">Please enter <b><font color='#FF0000'>your email</font></b> bellow\nto receive your password</string>
+    <string name="without_limits">Create an account to use To Do\n<b><font color='#FF0000'>without limits.</font></b> For free</string>
+    <string name="reset_description">Reset code was sent to your email\n<b><font color='#FF0000'>enter the code</font></b> and create new password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_account">Still without an account? <u><font color='#0000FF'>Create one</font></u></string>
+    <string name="have_account">I already have an account. <u><font color='#0000FF'>Log in</font></u></string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="register">Sign up</string>
+    <string name="hello">Hello!</string>
+    <string name="send_request">Send request</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset_code">Enter your code</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="enter_cf_password">Enter your confirm password</string>
+    <string name="change_password">Change password</string>
+    <string name="succesful">Successful!</string>
+    <string name="succesful_description">You have successfully change password.\nPlease use your new passwords when\nlogging in.</string>
+    <string name="my_task">My task</string>
+    <string name="menu">Menu</string>
+    <string name="add_task">Add task</string>
+    <string name="quick">Quick</string>
+    <string name="profile">Profile</string>
+    <string name="work_list">Work List</string>
+    <string name="today">Today</string>
+    <string name="month">Month</string>
+
+
+    <string name="work">Work</string>
+    <string name="health">Health</string>
+    <string name="personal">Personal</string>
+    <string name="sport">Sport</string>
+    <string name="shopping">Shopping</string>
+    <string name="project">Project</string>
+    <string name="title">Title</string>
+    <string name="project_name">Project name</string>
+    <string name="choose_color">Choose color</string>
+    <string name="blue">Blue</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="description">Description</string>
+    <string name="project_description">Project description</string>
+    <string name="example_ed">Ex : Go to Company …</string>
+    <string name="choose_date_time_start"><![CDATA[Choose Date & Time Start]]></string>
+    <string name="choose_date_time_end"><![CDATA[Choose Date & Time End]]></string>
+    <string name="remind_me">Remind me</string>
+    <string name="default_sound">Default</string>
+    <string name="anyone">Anyone</string>
+    <string name="schedule_task">Schedule Task</string>
+    <string name="todo">TODO</string>
+    <string name="ten_minutes">10 minutes</string>
+    <string name="twenty_minutes">20 minutes</string>
+    <string name="thirty_minutes">30 minutes</string>
+    <string name="one_hour">60 minutes</string>
+    <string name="remind_time">Remind time</string>
+    <string name="before">Before</string>
+    <string name="toColor"><font color='#de4949'>to</font></string>
+    <string name="to">to</string>
+    <string name="from">From</string>
+    <string name="before_10_minutes">Before 10 minutes</string>
+    <string name="add_member">Add member</string>
+    <string name="sound">Sound</string>
+    <string name="success_project">Add project success to database</string>
+    <string name="failed_project">Add project failed to database</string>
+
+    <string-array name="type_task">
+        <item>@string/work</item>
+        <item>@string/health</item>
+        <item>@string/personal</item>
+        <item>@string/sport</item>
+        <item>@string/shopping</item>
+    </string-array>
+
+    <string-array name="time_remind">
+        <item>@string/ten_minutes</item>
+        <item>@string/twenty_minutes</item>
+        <item>@string/thirty_minutes</item>
+        <item>@string/one_hour</item>
+    </string-array>
+
+</resources>

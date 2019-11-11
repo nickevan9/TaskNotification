@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/task"
+        android:icon="@drawable/ic_check_circle"
+        android:title="@string/my_task" />
+    <item
+        android:id="@+id/menu"
+        android:icon="@drawable/ic_view_quilt"
+        android:title="@string/menu" />
+    <item
+        android:id="@+id/add_task"
+        android:icon="@drawable/ic_add_circle_black_24dp"
+        android:title="@string/add_task" />
+    <item
+        android:id="@+id/quick"
+        android:icon="@drawable/ic_event_note"
+        android:title="@string/quick" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_person"
+        android:title="@string/profile" />
+</menu>
